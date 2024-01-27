@@ -235,7 +235,8 @@ margin-right: 76px;
                   {background-color: #FFFFFF;
                    border-radius:  0px 0px 4px 4px;
                 margin-bottom: 32px;
-            width: calc((100% - 72px) / 4);}
+            width: calc((100% - 72px) / 4);
+        }
 
         
                  .team-main-pic {}
