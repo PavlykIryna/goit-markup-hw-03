@@ -336,9 +336,11 @@ max-width: calc(100% - (72px) / 4);}
           
          .footer {
             background: #2E2F42;
-            padding-top: 140px;
-            padding-bottom: 100px;
+            padding-bottom: 100px 0;
             width: 1440px;
-                height: 312px;
-                flex-shrink: 0;
+    
          }
+        .futer-logo {
+            display: inline-block;
+            margin-bottom: 16 px;
+        }
