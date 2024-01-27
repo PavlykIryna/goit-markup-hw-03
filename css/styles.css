@@ -145,7 +145,7 @@ margin-right: 76px;
                           
 .container-strategy {
     margin-top: 120px;
-        margin-bottom: 120px;
+        margin-bottom: 120px;}
 .strategy {
         background: #FFF;
         padding-top: 120px;
@@ -157,13 +157,10 @@ margin-right: 76px;
         color: #FFF;
         margin-bottom: 8px;
     }
-}
+
          .main-strategy {
             padding-top: 120px;
-            display: flex;
-            gap: 24px;
-            
-            
+            display: flex;            
             
          }
     
@@ -174,9 +171,8 @@ margin-right: 76px;
          }
 
          .item {
-            
          }
-    
+  
          .main-titel-list {}
 
     
@@ -289,7 +285,6 @@ margin-right: 76px;
                     display: flex;
                         flex-wrap: wrap;
                         row-gap: 48px;
-                        max-width: calc(100% - (86px) / 6);
                 }
                 .container-portfolio {
                     padding: 32px 16px;
@@ -300,9 +295,11 @@ margin-right: 76px;
                 .portfolio-main-list {
                     margin-bottom: 48px;
                     width: calc((100% - 48px) / 3);
+                    
                 }
         .portfolio-list-end {
             margin-bottom: 0;
+            width: calc((100% - 48px) / 3);
         }
                 .portfolio-main-pic { 
                     margin-bottom: 32px;}
