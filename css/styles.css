@@ -226,7 +226,7 @@ width: calc((100% - 72px) / 4);
          .team-main {background-color: #FFFFFF;
         display: flex;
         flex-wrap: wrap;
-    gap: 24;
+    gap: 24px;
 }
       
     
