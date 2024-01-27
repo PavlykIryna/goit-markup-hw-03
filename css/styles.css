@@ -221,16 +221,22 @@ margin-right: 76px;
         display: flex;
         flex-wrap: wrap;
     gap: 24;
-width: calc((100% - 72px) / 4);}
+}
       
     
         
                  .team-main-list
                   {background-color: #FFFFFF;
-                margin-right: 24px;}
+                   border-radius:  0px 0px 4px 4px;
+                margin-bottom: 32px;
+            width: calc((100% - 72px) / 4);}
 
         
                  .team-main-pic {}
+                 .container-team {
+                    padding-bottom: 32px;
+                    padding-top: 32px;
+                 }
 
         
                  .team-main-titel {
@@ -241,6 +247,7 @@ width: calc((100% - 72px) / 4);}
                         line-height: 1.2;
                         letter-spacing: 0.02em;
                         margin-top: 32px;
+                margin-bottom: 8px;
                  }
 
         
