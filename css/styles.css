@@ -341,6 +341,9 @@ width: calc((100% - 72px) / 4);}
                 line-height: 1.17;
                 letter-spacing: 0.03em;
                 text-transform: uppercase;
+                display: inline-block;
+                    margin-bottom: 16 px;
+
          }
 
                 
@@ -368,6 +371,5 @@ width: calc((100% - 72px) / 4);}
             display: inline-block
          }
         .container-footer-logo {
-            display: inline-block;
-            margin-bottom: 16 px;
+           
         }
