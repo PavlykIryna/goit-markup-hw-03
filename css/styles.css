@@ -174,8 +174,8 @@ margin-right: 76px;
          }
     
          .main-strategy-list {
-            width: calc((100% - 72px) / 4);
-            flex-wrap: wrap;
+width: calc((100% - 72px) / 4);     
+       flex-wrap: wrap;
             margin-right: 24px;
          }
 
