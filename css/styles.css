@@ -285,15 +285,14 @@ margin-right: 76px;
                     letter-spacing: 0.02em;
                     text-transform: capitalize;
                     padding-top: 120px;
+                    display: block;
                     margin-bottom: 72px;
                     
                 }
                 .portfolio-main {
                     display: flex;
                     flex-wrap: wrap;
-                    gap: 24px;
-                    display: flex;
-                        flex-wrap: wrap;
+                    column-gap: 24px;
                         row-gap: 48px;
                 }
                 .container-portfolio {
@@ -307,10 +306,7 @@ margin-right: 76px;
                     width: calc((100% - 48px) / 3);
                     
                 }
-        .portfolio-list-end {
-            margin-bottom: 0;
-            width: calc((100% - 48px) / 3);
-        }
+       
                 .portfolio-main-pic { 
                     margin-bottom: 32px;}
         
