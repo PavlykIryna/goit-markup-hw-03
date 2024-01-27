@@ -168,17 +168,19 @@ margin-right: 76px;
 
          .main-strategy {
             padding-top: 120px;
-            display: flex;            
+            display: flex;   
+            gap: 24px;       
             
          }
     
          .main-strategy-list {
             width: calc((100% - 72px) / 4);
-            gap: 24px;
             flex-wrap: wrap;
+            margin-right: 24px;
          }
 
          .item {
+            margin-right: 0px;
          }
   
          .main-titel-list {}
