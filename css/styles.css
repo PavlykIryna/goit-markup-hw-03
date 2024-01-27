@@ -338,7 +338,7 @@ max-width: calc(100% - (72px) / 4);}
             width: 1440px;
     
          }
-        .futer-logo {
+        .container-footer-logo {
             display: inline-block;
             margin-bottom: 16 px;
         }
