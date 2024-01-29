@@ -226,6 +226,7 @@ width: calc((100% - 72px) / 4);
         display: flex;
         flex-wrap: wrap;
     gap: 24px;
+    border-radius: 0px 0px 4px 4px;
 }
       background: var(--WHITE, #FFF);
 
