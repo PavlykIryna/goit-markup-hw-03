@@ -39,22 +39,23 @@ img {
 display: flex;
 align-items: center;
 }
-.logo {color: #4D5AE5;
+.logo {
+    color: #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-padding-top: 26px;
-padding-bottom: 26px;
-margin-right: 76px;
+    margin-right: 76px;
 }
 .navigation {
     display: flex;
     align-items: center;
 }
-         .header-logo {color: #2E2F42;}
+        
+.header-logo {
+            color: #2E2F42;}
 
     
          .header-menu {
@@ -72,8 +73,7 @@ margin-right: 76px;
                 letter-spacing: 0.02em;
                 padding-top: 24px;
                 padding-bottom: 24px;
-                display: block;
-               
+                display: block;               
          }
 
     .header-link-menu:hover {color: #404BBF;}
