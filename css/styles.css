@@ -222,13 +222,11 @@ width: calc((100% - 72px) / 4);
 
             
 
-         .team-main {background-color: #FFFFFF;
+         .team-main {
         display: flex;
         flex-wrap: wrap;
-    gap: 24px;
-    border-radius: 0px 0px 4px 4px;
+        gap: 24px;
 }
-      background: var(--WHITE, #FFF);
 
     
         
@@ -241,6 +239,7 @@ width: calc((100% - 72px) / 4);
 
         
                  .team-main-pic {}
+
                  .container-team {
                     padding-bottom: 32px;
                     padding-top: 32px;
