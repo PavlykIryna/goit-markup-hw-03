@@ -329,6 +329,7 @@ width: calc((100% - 72px) / 4);
                                      font-weight: 500;
                                      line-height: 1.2;
                                      letter-spacing: 0.02em;
+                                     margin-bottom: 8px;
                                  }
                 
                                  .portfolio-main-text {
