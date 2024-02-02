@@ -61,7 +61,6 @@ align-items: center;
          .header-menu {
             display: flex;
             gap: 40px;
-            padding: 26px;
          }
     
          .header-link-menu {
@@ -81,7 +80,6 @@ align-items: center;
 
        
          .header-address {
-            padding: 26px;
             font-style: normal;
             margin-left: auto;
          }    
@@ -148,7 +146,7 @@ align-items: center;
 
 .strategy {
         background: #FFF;
-        padding: 120px 0;
+                padding-bottom: 120px ;
     }
 
 .visually-hidden {
